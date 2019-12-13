@@ -1,2 +1,2 @@
 ## Hello World
-This is a **Hellow World** Bukkit project.
+This is a **Hello World** Bukkit project.
